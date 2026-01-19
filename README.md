@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @GladiousZhang
+- 👋 Hi, I’m @GladiolusZhang
 - 👀 I’m interested in destributed system & blockchain.
-- 🌱 I’m currently pursuing a master's degree in XIDIAN University, Shaanxi, China
+- 🌱 I’m currently pursuing a doctor's degree in XIDIAN University, Shaanxi, China
 - 📫 How to reach me: E-mail: `gladious@foxmail.com`
 - 📃 About me: [personal blog](https://gladioluszhang.github.io)
 
