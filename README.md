@@ -5,9 +5,8 @@
 - 📃 About me: [personal blog](https://gladioluszhang.github.io)
 
   
-![](https://github-readme-stats.vercel.app/api?username=GladiousZhang&show_icons=true&theme=transparent&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=GladiolusZhang&show_icons=true&theme=transparent&count_private=true)
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/GladiousZhang/count.svg) visitor,Thank You! 🫶
 
 ### My skill set
 ![golang](https://skillicons.dev/icons?i=go)![java](https://skillicons.dev/icons?i=java)![c](https://skillicons.dev/icons?i=c)![solidity](https://skillicons.dev/icons?i=solidity)![python](https://skillicons.dev/icons?i=python)![mysql](https://skillicons.dev/icons?i=mysql)![vue](https://skillicons.dev/icons?i=vue)![react](https://skillicons.dev/icons?i=react)
